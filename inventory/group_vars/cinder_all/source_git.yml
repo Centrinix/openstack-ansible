@@ -13,9 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-### HEAD as of 21.10.2023 ###
-
 ## Cinder service
-cinder_git_repo: "{{ openstack_opendev_base_url }}/openstack/cinder"
+cinder_git_repo: "https://github.com/Centrinix/openstack-cinder.git"
 cinder_git_install_branch: 496d42374625108b3eb0fefba7967bae5f072162
-cinder_git_track_branch: stable/2023.1
+cinder_git_track_branch: centrinix/cloud

@@ -103,9 +103,9 @@
   shallow_since: '2023-08-20'
 - name: os_cinder
   scm: git
-  src: https://opendev.org/openstack/openstack-ansible-os_cinder
+  src: https://github.com/Centrinix/openstack-ansible-os_cinder.git
   version: 5519cd28a0cdad0510c3b552c885a12743a25034
-  trackbranch: stable/2023.1
+  trackbranch: centrinix/cloud
   shallow_since: '2023-08-22'
 - name: os_cloudkitty
   scm: git
