@@ -26,7 +26,7 @@
 - name: haproxy_server
   scm: git
   src: https://github.com/Centrinix/openstack-ansible-haproxy_server.git
-  version: c5541c93c273d5f6f698f3446ec804d72d52e85d
+  version: 8079e6706e00c8c8dd5b3576a99c1a86acd5a114
   trackbranch: centrinix/cloud
   shallow_since: '2023-10-09'
 - name: keepalived
