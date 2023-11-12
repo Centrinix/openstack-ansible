@@ -187,9 +187,9 @@
   shallow_since: '2023-10-12'
 - name: os_nova
   scm: git
-  src: https://opendev.org/openstack/openstack-ansible-os_nova
+  src: https://github.com/Centrinix/openstack-ansible-os_nova.git
   version: f3eeb7a7f8d64583921beafdfc167f2dfeb89161
-  trackbranch: stable/2023.1
+  trackbranch: centrinix/cloud
   shallow_since: '2023-10-19'
 - name: os_octavia
   scm: git
