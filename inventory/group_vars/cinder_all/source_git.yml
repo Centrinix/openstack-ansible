@@ -15,5 +15,5 @@
 
 ## Cinder service
 cinder_git_repo: "https://github.com/Centrinix/openstack-cinder.git"
-cinder_git_install_branch: 496d42374625108b3eb0fefba7967bae5f072162
+cinder_git_install_branch: dbc0c5665841a4833b2ad22e24c1121d4c2d3914
 cinder_git_track_branch: centrinix/cloud
