@@ -188,7 +188,7 @@
 - name: os_nova
   scm: git
   src: https://github.com/Centrinix/openstack-ansible-os_nova.git
-  version: f7e66193e5a156dbc8c033c7a81f33b5559e739f
+  version: 9b7160f4b3786c6a751bbe617a7e11d11c490f34
   trackbranch: centrinix/cloud
   shallow_since: '2023-10-19'
 - name: os_octavia
