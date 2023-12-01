@@ -260,7 +260,7 @@
 - name: rabbitmq_server
   scm: git
   src: https://github.com/Centrinix/openstack-ansible-rabbitmq_server.git
-  version: 220a90cfda02fdd5a2e310bb25a6b3e9e377dd11
+  version: b9d85291722444e1e87ada12787dd8f813e26760
   trackbranch: centrinix/cloud
   shallow_since: '2023-05-29'
 - name: repo_server
