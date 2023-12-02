@@ -151,9 +151,9 @@
   shallow_since: '2023-08-21'
 - name: os_magnum
   scm: git
-  src: https://opendev.org/openstack/openstack-ansible-os_magnum
+  src: https://github.com/Centrinix/openstack-ansible-os_magnum.git
   version: b0ec6ece1b1c82e78171f74fdc0401b44297f94e
-  trackbranch: stable/2023.1
+  trackbranch: centrinix/cloud
   shallow_since: '2023-08-22'
 - name: os_manila
   scm: git
