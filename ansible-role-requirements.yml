@@ -122,7 +122,7 @@
 - name: os_glance
   scm: git
   src: https://github.com/Centrinix/openstack-ansible-os_glance.git
-  version: 70362f00621cc54059ab05ee81e504a1de2b94c8
+  version: 816e64948a5764e01352a6ca6015c440b9229c2c
   trackbranch: centrinix/cloud
   shallow_since: '2023-08-22'
 - name: os_gnocchi
